@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_converter">Currency Converter</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="amount_to_convert_editText">Enter amount</string>
+    <string name="from_currency_label_placeHolder">From currency</string>
+    <string name="to_currency_label_placeholder">To currency</string>
+    <string name="converted_value_placeholder">145.64</string>
+</resources>
